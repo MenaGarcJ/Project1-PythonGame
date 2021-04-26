@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Hangman
+*Irving Palacios y Joaquín Mena*
 
-*[Your Cohort, Campus & Date]*
+*Data Analysis PT / Mexico City / 1 de mayo de 2021*
 
 ## Content
 - [Project Description](#project-description)
@@ -14,19 +14,26 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Hangman o mejor conocido como: "Ahorcado", si eres latino. Es un juego que involucra la habilidad y conocimientos sobre palabras del jugador para poder acertar la palabra antes de que se le acaben los intentos. En esta versión de IronHack 2021, le rendiremos homenaje al clásico, pero siempre intrigante juego de ahorcado.
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+1. Definir que juego se desarrollaría. 
+2. Una vez seleccionado, entender la lógica de como se juega, que variables involucra y que condicionales utiliza para su correcto funcionamiento. 
+3. 
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+Las herramientas utilizadas fueron las siguientes:
+- Trello --> Para generar y monitorear las tareas que se deberían realizar. 
+- Miro --> Con Miro generamos nuestro diagrama de flujo, que nos sirvió bastante para poder maquetar de forma visual, la manera en que se tendría que comportar el código. 
+- Github --> Con Github generamos nuestro repositorio, el cuál fue utilizado para colaborar en los avances del proyecto y mantener un workflow fluído. 
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository and slides. Feel free to include any other links associated to your project. 
+- Github Repo --> 
+- Google Drive Slides --> 
