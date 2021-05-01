@@ -24,11 +24,11 @@ Hangman o mejor conocido como: "Ahorcado", si eres latino. Es un juego que invol
 3. Buscamos y testeamos algunas referencias que encontramos con el fin de escoger la mejor opción para nuestra versión. 
 4. Posterior a ello, trabajamos directamente en el diagrama de flujo para maquetar y visualizar de mejor manera el comportamiento que debería de tener el código.
 5. A la par de todo esto, manejamos una herramienta para gestionar las tareas, llamada: "Trello". En donde dividíamos las tareas en 3 grandes segmentos: To do, Doing y Done. 
-6. Después, una vez que ya teníamos el diagrama de flujo, tocó trabajar en el pseudocódigo, para ir armando los componentes que debíamos crear. 
-7. Código
-8. Testear
-9. Commit / Push
-10. Demo Day. 
+6. Después, una vez que ya teníamos el diagrama de flujo, tocó trabajar en el código, ir trabajando por bloques. 
+7. Realizamos bloques de código para después testearlo e iterar sucesivamente. 
+8. Testeamos junto con los teachers y realizamos las últimas mejoras. 
+9. Apuntalamos los últimos cambios para poder hacer commit y push final. 
+10. ¡Finalmente, a presentar! 
 
 
 <a name="organization"></a>
