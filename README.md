@@ -43,5 +43,5 @@ Las herramientas utilizadas fueron las siguientes:
 
 ## Links
 Include the links to your repository and slides. Feel free to include any other links associated to your project. 
-- Github Repo --> 
-- Google Drive Slides --> 
+- Github Repo --> https://github.com/MenaGarcJ/Project1-PythonGame.git
+- Google Drive Slides --> https://docs.google.com/presentation/d/1Fi7Pa8gW_4eJK3qfWOc7nZa_6Wp-eRLJ8E0qLGPejxQ/edit?usp=sharing
